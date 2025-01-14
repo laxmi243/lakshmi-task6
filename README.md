@@ -1,10 +1,10 @@
 # lakshmi-task6
 
-Name:RAJULA HEMANTH,
+Name:B LAKSHMI PRASAD,
 
 Company:CODTECH IT SOLUTIONS,
 
-ID:CT08EEN,
+ID:CT08EDI,
 
 Domain:POWER BI,
 
